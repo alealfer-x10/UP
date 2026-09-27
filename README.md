@@ -8,8 +8,11 @@ CONTEXTO:
 las plataformas de streaming globales. 
   Adquirir un nuevo cliente suele costar entre 5 y 7 veces más que retener a uno existente.
 
+Fuente: https://www.kaggle.com/datasets/zeyadmohamed26/netflix-customer-churn-and-engagement-analytics
+
+El dataset contiene 5000 registros únicos de suscriptores y ningún valor perdido.
+
 DICCIONARIO DE DATOS
-The dataset consists of 5,000 unique subscriber records with 14 attributes and zero missing values:
 
 Nombre columna          Tipo de dato          Rango ó valores distintivos        Descripción 
 **********************  ************          ********************************   ************************************************************
